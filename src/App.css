@@ -1,0 +1,47 @@
+html {
+  background-color:darkcyan;
+  width: 100%;
+  height: 100vh;
+}
+
+.buttonLayout{
+  margin: 10px;
+  color: blanchedalmond;
+  background: black;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.textCenter{
+text-align: center;
+}
+
+.textBox{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.textButton{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #023020;
+  color: white;
+  font-size: initial;
+  cursor: pointer;
+}
+
+.textCenter1 {
+  display: inline-grid;
+  width: 400px;
+}
+
+.textError{
+  background: white;
+  border-radius: 33px;
+  margin: 10px;
+  color: #dd1a1a;
+  font-weight: bold;
+  padding: 5px;
+}
